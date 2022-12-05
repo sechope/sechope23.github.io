@@ -6,8 +6,9 @@
 SecHOPE is a new forum for computer security and human computer interaction experts to come together and discuss how to design and build systems that protect people from online hate and harassment.
 
 ## Important Dates
+
 | Deadline | Date |
-| ----------- | ----------- |
+| -------- | ---- |
 | Submissions Due | February 21, 2022 |
 | Acceptance Notice to Authors | March 23, 2022 |
 | Program Announced | March 28, 2022 |
