@@ -26,7 +26,7 @@ Rachel Greenstadt, NYU
 Deepak Kumar, Stanford University  
 
 ## Program Committee
-Interested in participating in the Program Committee, or know someone who would be a good fit? Please fill out this form: https://forms.gle/MvfbtSjxxNCjLpij6.
+Interested in participating in the Program Committee, or know someone who would be a good fit? Please fill out this form: [https://forms.gle/MvfbtSjxxNCjLpij6](https://forms.gle/MvfbtSjxxNCjLpij6)
 
 
 ## Overview and Topics
@@ -64,7 +64,7 @@ Proposals can be submitted via HotCRP. This page will be updated with the submis
 
 
 ## Conflicts of interest
-We will follow the same conflict of interest policy as laid out by IEEE Security & Privacy: https://www.ieee-security.org/TC/SP2023/cfpapers.html
+We will follow the same conflict of interest policy as laid out by IEEE Security & Privacy: [https://www.ieee-security.org/TC/SP2023/cfpapers.html](https://www.ieee-security.org/TC/SP2023/cfpapers.html)
 
 
 ## Presentation format
