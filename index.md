@@ -17,10 +17,10 @@ SecHOPE is a new forum for computer security and human computer interaction expe
 ## Organizing Committee
 The organizing committee can be reached at [sechope23-chairs@ieee-security.org](mailto:sechope23-chairs@ieee-security.org).
 
-Zakir Durumeric, Stanford University
-Rachel Greenstadt, NYU
-Deepak Kumar, Stanford University
-Sarah Meiklejohn, Google & UCL
+Zakir Durumeric, Stanford University\
+Rachel Greenstadt, NYU\
+Deepak Kumar, Stanford University\
+Sarah Meiklejohn, Google & UCL\
 Kurt Thomas, Google
 
 ## Program Chairs
