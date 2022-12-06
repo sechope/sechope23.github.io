@@ -24,7 +24,7 @@ Sarah Meiklejohn, Google & UCL\
 Kurt Thomas, Google
 
 ## Program Chairs
-Rachel Greenstadt, NYU
+Rachel Greenstadt, NYU\
 Deepak Kumar, Stanford University
 
 ## Program Committee
