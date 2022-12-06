@@ -15,15 +15,17 @@ SecHOPE is a new forum for computer security and human computer interaction expe
 | Workshop Date | May 26, 2022 |
 
 ## Organizing Committee
-Zakir Durumeric, Stanford University  
-Rachel Greenstadt, NYU  
-Deepak Kumar, Stanford University  
-Sarah Meiklejohn, Google & UCL  
-Kurt Thomas, Google  
+The organizing committee can be reached at [sechope23-chairs@ieee-security.org](mailto:sechope23-chairs@ieee-security.org).
+
+Zakir Durumeric, Stanford University
+Rachel Greenstadt, NYU
+Deepak Kumar, Stanford University
+Sarah Meiklejohn, Google & UCL
+Kurt Thomas, Google
 
 ## Program Chairs
-Rachel Greenstadt, NYU  
-Deepak Kumar, Stanford University  
+Rachel Greenstadt, NYU
+Deepak Kumar, Stanford University
 
 ## Program Committee
 Interested in participating in the Program Committee, or know someone who would be a good fit? Please fill out this form: [https://forms.gle/MvfbtSjxxNCjLpij6](https://forms.gle/MvfbtSjxxNCjLpij6)
@@ -51,16 +53,16 @@ Submissions must comply with the following rules:
 * Submissions must be provided in PDF format.
 * Submissions must be non-anonymous.
 * Submissions must clearly specify which author will give the talk. The author identified commits to present the talk at the workshop.
-* We welcome submissions of talks based on research previously published or presented in other venues, but we require that authors include a statement concerning whether the talk will overlap with other publications or presentations, and to what extent, and the value of presenting the work in this venue. 
+* We welcome submissions of talks based on research previously published or presented in other venues, but we require that authors include a statement concerning whether the talk will overlap with other publications or presentations, and to what extent, and the value of presenting the work in this venue.
 
 Submissions that violate any of the above rules will be desk rejected.
 
 Submissions are due by February 21, 2022.
 
 Authors will be notified of decisions by March 23, 2022.
+
 ## Submission server
 Proposals can be submitted via HotCRP. This page will be updated with the submission server closer to the submission deadline.
-
 
 
 ## Conflicts of interest
