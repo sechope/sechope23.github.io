@@ -1,2 +1,10 @@
-name: SecHOPE23
-title: null
+
+title: SecHOPE 2023
+email: 
+description: 1st IEEE Workshop on Security for Harassment Online, Protections, and Empowerment
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sechope23.github.io" 
+
+# Build settings
+theme: minima
+
