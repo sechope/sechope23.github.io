@@ -62,7 +62,7 @@ Submissions are due by February 21, 2022.
 Authors will be notified of decisions by March 23, 2022.
 
 ## Submission server
-Proposals can be submitted via HotCRP. This page will be updated with the submission server closer to the submission deadline.
+Proposals can be submitted via HotCRP at https://hotcrp.sechope23.ieee-security.org/.
 
 
 ## Conflicts of interest
