@@ -8,3 +8,9 @@ url: "https://sechope23.github.io"
 # Build settings
 theme: minima
 
+minima:
+    - skin: auto
+
+header_pages:
+    - cfp.md
+    - organization.md
