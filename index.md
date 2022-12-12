@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SecHOPE 2023
+title: ""
 ---
 
 ## 1st IEEE Workshop on Security for Harassment Online, Protections, and Empowerment
