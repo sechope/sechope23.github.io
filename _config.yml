@@ -12,5 +12,5 @@ minima:
     - skin: auto
 
 header_pages:
-    - cfp.md
+    - cft.md
     - organization.md
