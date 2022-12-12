@@ -9,7 +9,7 @@ title: SecHOPE 2023
 
 SecHOPE is a new forum for computer security and human computer interaction experts to come together and discuss how to design and build systems that protect people from online hate and harassment.
 
-For more information, see the [call for papers](/cfp).
+For more information, see the [call for talks](/cft).
 
 ## Important Dates
 
