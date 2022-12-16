@@ -34,9 +34,9 @@ Submissions must comply with the following rules:
 
 Submissions that violate any of the above rules will be desk rejected.
 
-Submissions are due by February 21, 2022.
+Submissions are due by February 21, 2023.
 
-Authors will be notified of decisions by March 23, 2022.
+Authors will be notified of decisions by March 23, 2023.
 
 ## Submission server
 Proposals can be submitted via HotCRP at
