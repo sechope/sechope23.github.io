@@ -49,3 +49,12 @@ We will follow the same conflict of interest policy as laid out by IEEE Security
 
 ## Presentation format
 Accepted talks will consist of 10–12 minutes for presenting, followed by 3–5 minutes for Q&A. One author for the accepted talk must be present in-person at the conference. Authors are responsible for obtaining appropriate publication clearances.
+
+## Important Dates
+
+| Deadline | Date |
+| -------- | ---- |
+| Submissions Due | February 21, 2022 |
+| Acceptance Notice to Authors | March 23, 2022 |
+| Program Announced | March 28, 2022 |
+| Workshop Date | May 26, 2022 |
