@@ -54,7 +54,7 @@ Accepted talks will consist of 10–12 minutes for presenting, followed by 3–5
 
 | Deadline | Date |
 | -------- | ---- |
-| Submissions Due | February 21, 2022 |
-| Acceptance Notice to Authors | March 23, 2022 |
-| Program Announced | March 28, 2022 |
-| Workshop Date | May 26, 2022 |
+| Submissions Due | February 21, 2023 |
+| Acceptance Notice to Authors | March 23, 2023 |
+| Program Announced | March 28, 2023 |
+| Workshop Date | May 26, 2023 |
