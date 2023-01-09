@@ -22,8 +22,8 @@ Devdatta Akhawe, Figma Inc.\
 Rosanna Bellini, Cornell Tech\
 Rahul Chatterjee, University of Wisconsin-Madison\
 Sunny Consolvo, Google\
-Courtney Crooks, Georgia Institute of Technology\
 Emiliano de Cristofaro, University College London\
+Courtney Crooks, Georgia Institute of Technology\
 Periwinkle Doerfler, Meta\
 Laura Edelson, New York University\
 Gennie Gebhart, Electronic Frontier Foundation\
