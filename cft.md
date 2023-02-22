@@ -34,7 +34,7 @@ Submissions must comply with the following rules:
 
 Submissions that violate any of the above rules will be desk rejected.
 
-Submissions are due by February 21, 2023.
+Submissions are due by February 24, 2023 (extended from 21, 2023).
 
 Authors will be notified of decisions by March 23, 2023.
 
@@ -54,7 +54,7 @@ Accepted talks will consist of 10–12 minutes for presenting, followed by 3–5
 
 | Deadline | Date |
 | -------- | ---- |
-| Submissions Due | February 21, 2023 |
+| Submissions Due | February 24, 2023 (extended from 21, 2023) |
 | Acceptance Notice to Authors | March 23, 2023 |
 | Program Announced | March 28, 2023 |
 | Workshop Date | May 25, 2023 |
