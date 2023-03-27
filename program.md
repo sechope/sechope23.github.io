@@ -26,12 +26,10 @@ directly. We identify several failures of each of the features that prevent
 them from performing their intended purpose even if they were in use. These
 failures combined imply a need to greatly improve the presence of
 anti-stalking features to prevent trackers from being abused.
-   
-   </details>
-   
+   </details><br>
     
 2. Understanding the Behaviors of Toxic Accounts on Reddit\
-   Deepak Kumar, Jeff Hancock, Kurt Thomas, Zakir Durumeric\
+   **Deepak Kumar**, Jeff Hancock, Kurt Thomas, Zakir Durumeric\
    Stanford University, Google
 
 3. Financial Abuse in Intimate Partnerships: Enabling Platform Resilience and Prevention\
@@ -39,11 +37,11 @@ anti-stalking features to prevent trackers from being abused.
    JPMorgan Chase, Cornell University
 
 4. Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships\
-   Miranda Wei, Eric Zeng, Tadayoshi Kohno, Franziska Roesner\
+   **Miranda Wei**, Eric Zeng, Tadayoshi Kohno, Franziska Roesner\
    University of Washington, Carnegie Mellon University
 
 5. Hate Raids on Twitch: Echoes of the Past, New Modalities, and Implications for Platform Governance\
-   Catherine Han, Joseph Seering, Deepak Kumar, Jeffrey T. Hancock, Zakir Durumeric\
+   **Catherine Han**, Joseph Seering, Deepak Kumar, Jeffrey T. Hancock, Zakir Durumeric\
    Stanford University
 
 6. SnuggleSense: empowering online harm survivors through a sensemaking process\
@@ -52,8 +50,7 @@ anti-stalking features to prevent trackers from being abused.
    <details><summary>Abstract</summary>
 
    Interpersonal harm is a prevalent problem on social media platforms. Survivors are often left out of the traditional content moderation process and face uncertainty and risk of secondary harm when seeking outside help. Our research aims to empower survivors in a critical and early stage in addressing harm --- the sensemaking process. we developed SnuggleSense, a tool that empowers survivors by guiding them through a reflective sensemaking process inspired by restorative justice practices. Our evaluation found that SnuggleSense empowers participants by expanding their options for addressing harm beyond traditional content moderation methods, helping them understand their needs for restoration and healing, and increasing their engagement and emotional support in addressing harm for their friends. We discuss the implications of these findings, including the importance of providing guidance, agency and information in survivors' sensemaking of harm, as well as the educational effect of the reflection process within online communities.
-
-   </details>  
+   </details><br>
   
 7. Account Security Interfaces: Important, Unintuitive, and Untrustworthy\
    Alaa Daffalla, **Marina Bohuk**, Nicola Dell, Rosanna Bellini, Thomas Ristenpart\
