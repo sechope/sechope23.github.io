@@ -4,8 +4,10 @@ title: Program
 permalink: /program/
 ---
 
-A detailed program will be posted soon.  For now, here is a list of accepted
-papers, with the speaker indicated in bold.
+A detailed program, which includes an industry panel, an academic keynote, 
+and sessions for breakout discussions and lightning talks, will be posted 
+soon.  For now, here is a list of accepted papers, with the speaker indicated 
+in bold.
 
 1. Can’t Keep Them Away: The Failures of Anti-Stalking Protocols in Personal Item Tracking Devices\
    **Kieron Ivy Turk**, Alice Hutchings, Alastair R. Beresford\
