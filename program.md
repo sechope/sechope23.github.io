@@ -35,7 +35,7 @@ anti-stalking features to prevent trackers from being abused.
    Stanford University, Google
 
 3. Financial Abuse in Intimate Partnerships: Enabling Platform Resilience and Prevention\
-   Arkaprabha Bhattacharya, Rosanna Bellini, Kevin Lee, Vineeth Ravi, Jessica Staddon\
+   **Arkaprabha Bhattacharya**, Rosanna Bellini, Kevin Lee, Vineeth Ravi, Jessica Staddon\
    JPMorgan Chase, Cornell University
 
 4. Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships\
@@ -56,9 +56,9 @@ anti-stalking features to prevent trackers from being abused.
    </details>  
   
 7. Account Security Interfaces: Important, Unintuitive, and Untrustworthy\
-   Alaa Daffalla, Marina Bohuk, Nicola Dell, Rosanna Bellini, Thomas Ristenpart\
+   Alaa Daffalla, **Marina Bohuk**, Nicola Dell, Rosanna Bellini, Thomas Ristenpart\
    Cornell University, Cornell Tech
 
 8. Designing Safer Systems for Digital Intimacy\
-   Vaughn Hamilton, Gabriel Kaptchuk, Allison McDonald, Elissa M. Redmiles\
+   Vaughn Hamilton, **Gabriel Kaptchuk**, Allison McDonald, Elissa M. Redmiles\
    MPI for Software Systems, Boston University
