@@ -50,9 +50,7 @@ anti-stalking features to prevent trackers from being abused.
     needed to curb unwanted toxic behaviors online.
    </details><br>
 
-3. Financial Abuse in Intimate Partnerships: Enabling Platform Resilience and Prevention\
-   **Arkaprabha Bhattacharya**, Rosanna Bellini, Kevin Lee, Vineeth Ravi, Jessica Staddon\
-   JPMorgan Chase, Cornell University
+3. **Under Embargo** 
 
 4. Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships\
    **Miranda Wei**, Eric Zeng, Tadayoshi Kohno, Franziska Roesner\
