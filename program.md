@@ -57,6 +57,12 @@ anti-stalking features to prevent trackers from being abused.
 7. Account Security Interfaces: Important, Unintuitive, and Untrustworthy\
    Alaa Daffalla, **Marina Bohuk**, Nicola Dell, Rosanna Bellini, Thomas Ristenpart\
    Cornell University, Cornell Tech
+   <details><summary>Abstract</summary>
+
+   Online services increasingly rely on user-facing interfaces to communicate important security-related account information---for example, which devices are logged into a user’s account and when recent logins occurred. However, there has been no investigation into whether these interfaces work well.
+    We begin to fill this gap by partnering with a clinic that supports survivors of intimate partner violence (IPV). We perform qualitative analysis on interview transcripts between clinic consultants and survivors seeking to infer the security status of survivor accounts. Our findings show that these interfaces suffer from a number of limitations that cause confusion and reduce their utility.
+    We then experimentally investigate the lack of integrity of information contained in device lists and session activity logs for four major services. For all the services investigated, we show how an attacker can either hide accesses entirely or spoof access details to hide illicit logins from victims.
+   </details><br>
 
 8. Designing Safer Systems for Digital Intimacy\
    Vaughn Hamilton, **Gabriel Kaptchuk**, Allison McDonald, Elissa M. Redmiles\
