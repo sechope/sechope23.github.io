@@ -59,6 +59,10 @@ anti-stalking features to prevent trackers from being abused.
 5. Hate Raids on Twitch: Echoes of the Past, New Modalities, and Implications for Platform Governance\
    **Catherine Han**, Joseph Seering, Deepak Kumar, Jeffrey T. Hancock, Zakir Durumeric\
    Stanford University
+   <details><summary>Abstract</summary>
+
+   In summer 2021, users on Twitch were targeted by “hate raids,” a form of attack that overwhelms streamers' chatrooms with hateful messages, often using bots and automation. Using a mixed-methods approach, we combine a quantitative measurement of attacks across the platform with interviews of streamers and third-party bot developers. We present evidence that some hate raids were highly-targeted, hate-driven attacks, but we also observe another mode similar to networked harassment and subcultural trolling. We show that streamers who self-identify as LGBTQ+ and/or Black were disproportionately targeted and that hate raid messages were most commonly rooted in anti-Black racism and antisemitism. We also document how these attacks elicited rapid community responses in bolstering reactive moderation and developing proactive mitigations for future attacks. We conclude by discussing how platforms can better prepare for attacks and protect at-risk communities while considering the division of labor between community moderators, tool-builders, and platforms.
+   </details><br>
 
 6. SnuggleSense: empowering online harm survivors through a sensemaking process\
    **Sijia Xiao**, Amy Mathews, Jingshu Rui, Coye Cheshire, Niloufar Salehi\
