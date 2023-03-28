@@ -33,6 +33,22 @@ anti-stalking features to prevent trackers from being abused.
 2. Understanding the Behaviors of Toxic Accounts on Reddit\
    **Deepak Kumar**, Jeff Hancock, Kurt Thomas, Zakir Durumeric\
    Stanford University, Google
+   <details><summary>Abstract</summary>
+    Toxic content is the top form of hate and harassment experienced
+    online. While many studies have investigated the types of toxic
+    content posted online, the effects that such content has on people,
+    and the impact of potential defenses, no study has captured the
+    behaviors of the accounts that engage in this behavior or how such
+    attacks are operationalized. In this talk, we will present a measurement
+    study of 929K accounts that post toxic comments on Reddit over an
+    18 month period. Combined, these accounts posted over 14 million
+    toxic comments that encompass insults, identity attacks, threats
+    of violence, and sexual harassment. We will explore the impact that
+    these accounts have on Reddit, the targeting strategies that abusive
+    accounts adopt, and the distinct patterns that distinguish classes of
+    abusive accounts. Our analysis can inform the nuanced interventions
+    needed to curb unwanted toxic behaviors online.
+   </details><br>
 
 3. Financial Abuse in Intimate Partnerships: Enabling Platform Resilience and Prevention\
    **Arkaprabha Bhattacharya**, Rosanna Bellini, Kevin Lee, Vineeth Ravi, Jessica Staddon\
