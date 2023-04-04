@@ -35,7 +35,6 @@ Patrick Gage Kelley, Google\
 Tadayoshi Kohno, University of Washington\
 Nathan Malkin, University of Maryland\
 Michelle Mazurek, University of Maryland\
-Damon McCoy, New York University\
 Allison McDonald, Boston University\
 Rishab Nithyanand, University of Iowa\
 Jeremiah Onaolapo, University of Vermont\
