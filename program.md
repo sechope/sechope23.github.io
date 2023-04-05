@@ -55,6 +55,10 @@ anti-stalking features to prevent trackers from being abused.
 4. Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships\
    **Miranda Wei**, Eric Zeng, Tadayoshi Kohno, Franziska Roesner\
    University of Washington, Carnegie Mellon University
+   
+   <details><summary>Abstract</summary>
+    Modern technologies including smartphones, AirTags, and tracking apps enable surveillance and control in interpersonal relationships. In this work, we study videos posted on TikTok that give advice for how to surveil or control others through technology, focusing on two interpersonal contexts: intimate partner relationships and parent-child relationships. We collected 98 videos across both contexts and investigate (a) what types of surveillance or control techniques the videos describe, (b) what assets are being targeted, (c) the reasons that TikTok creators give for using these techniques, and (d) defensive techniques discussed. Additionally, we make observations about how social factors – including social acceptability, gender, and TikTok culture – are critical context for the existence of this anti-privacy and anti-security advice. We discuss the use of TikTok as a rich source of qualitative data for future studies and make recommendations for technology designers around interpersonal surveillance and control.
+   </details><br>
 
 5. Hate Raids on Twitch: Echoes of the Past, New Modalities, and Implications for Platform Governance\
    **Catherine Han**, Joseph Seering, Deepak Kumar, Jeffrey T. Hancock, Zakir Durumeric\
