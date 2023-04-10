@@ -19,7 +19,6 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
         <td> Industry Panel
             <ul>
                 <li> Lea Kissner, former CISO, Twitter </li>
-                <li> Sanjay Kairam, Staff Scientist, Reddit </li>
                 <li> More panelists TBA </li>
             </ul>
 
