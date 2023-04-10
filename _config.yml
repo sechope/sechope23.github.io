@@ -13,5 +13,6 @@ minima:
 
 header_pages:
     - program.md
+    - accepted_papers.md
     - cft.md
     - organization.md
