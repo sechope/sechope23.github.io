@@ -49,7 +49,7 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
         <td> 11:15 - 11:45am </td>
     </tr>
     <tr>
-        <td> Lunch (on your own) </td>
+        <td> Lunch </td>
         <td> 11:45am - 1:00pm </td>
     </tr>
     <tr>
