@@ -54,7 +54,7 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
         <td> 11:45am - 1:00pm </td>
     </tr>
     <tr>
-        <td> Academic Keynote – <b>Daphne Keller</b>, Stanford </td>
+        <td> Academic Keynote – TBD </td>
         <td> 1:00pm - 1:45pm </td>
     </tr>
     <tr>
