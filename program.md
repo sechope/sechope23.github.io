@@ -18,8 +18,9 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
     <tr>
         <td> Industry Panel
             <ul>
-                <li> Lea Kissner, former CISO, Twitter </li>
-                <li> More panelists TBA </li>
+                <li> <b>Lea Kissner</b>, former CISO, Twitter </li>
+                <li> <b>Yoel Roth</b>, former Head of Trust & Safety, Twitter </li>
+                <li> <b>Alison Huffman</b>, VP of Community Health, Twitch </li>
             </ul>
 
         </td>
@@ -53,7 +54,7 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
         <td> 11:45am - 1:00pm </td>
     </tr>
     <tr>
-        <td> Academic Keynote – Speaker TBA </td>
+        <td> Academic Keynote – <b>Daphne Keller</b>, Stanford </td>
         <td> 1:00pm - 1:45pm </td>
     </tr>
     <tr>
