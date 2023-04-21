@@ -16,14 +16,7 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
         <td> 8:45 - 9:00am </td>
     </tr>
     <tr>
-        <td> Industry Panel
-            <ul>
-                <li> <b>Lea Kissner</b>, former CISO, Twitter </li>
-                <li> <b>Yoel Roth</b>, former Head of Trust & Safety, Twitter </li>
-                <li> <b>Alison Huffman</b>, VP of Community Health, Twitch </li>
-            </ul>
-
-        </td>
+        <td> Academic Keynote – Daphne Keller, Stanford </td>
         <td> 9:00 - 10:00am </td>
     </tr>
     <tr>
@@ -54,7 +47,14 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
         <td> 11:45am - 1:00pm </td>
     </tr>
     <tr>
-        <td> Academic Keynote – Daphne Keller, Stanford </td>
+        <td> Industry Panel
+            <ul>
+                <li> <b>Lea Kissner</b>, former CISO, Twitter </li>
+                <li> <b>Yoel Roth</b>, former Head of Trust & Safety, Twitter </li>
+                <li> <b>Alison Huffman</b>, VP of Community Health, Twitch </li>
+            </ul>
+            Moderator: <b>Laura Edelson</b>, Postdoctoral Researcher, NYU
+        </td>
         <td> 1:00pm - 1:45pm </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
                 <li> Designing Safer Systems for Digital Intimacy, <b>Allison McDonald</b> </li>
             </ul>
         </td>
-        <td> 1:45 - 2:30pm </td>
+        <td> 1:45pm - 2:30pm </td>
     </tr>
     <tr>
         <td> Afternoon Break </td>
