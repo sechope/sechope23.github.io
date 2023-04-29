@@ -45,7 +45,12 @@ anti-stalking features to prevent trackers from being abused.
     needed to curb unwanted toxic behaviors online.
    </details><br>
 
-3. **Under Embargo** 
+3. Financial Abuse in Intimate Partnerships: Enabling Platform Resilience and Prevention\
+    **Arkaprabha Bhattacharya** , Rosanna Bellini, Kevin Lee, Vineeth Ravi, Jessica Staddon\
+    JPMorgan Chase, Cornell University
+    <details><summary>Abstract</summary>
+    Research has highlighted the malicious role that digital technologies can play in exacerbating existing forms of harm such as non-consensual surveillance, doxxing, and harassment in intimate partner violence (IPV) contexts. Although the growth of online and mobile consumer banking has improved convenience, protection against financial harms such as fraud and abuse remains challenging. The computer security community has been developing new techniques to detect and mitigate harms, yet further understanding of intimate partner financial abuse (IPFA) — an area with unique security challenges — is required. In this work we explore the challenges of automating support for identifying IPFA in complaints received by many financial institutions, and demonstrate that complaints are rich sources of threat intelligence for understanding financial abuse. Our contributions include a concrete definition and a corpus of examples of possible IPFA, and the identification of financial products and risk factors associated with IPFA.
+    </details><br>
 
 4. Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships\
    **Miranda Wei**, Eric Zeng, Tadayoshi Kohno, Franziska Roesner\

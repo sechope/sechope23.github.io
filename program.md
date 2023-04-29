@@ -37,7 +37,7 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
         <td> Session 2 – Intimate Partner Surveillance 
             <ul>
                 <li> Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships, <b> Miranda Wei </b></li>
-                <li> Under Embargo, TBA </li>
+                <li> Financial Abuse in Intimate Partnerships: Enabling Platform Resilience and Prevention, <b> Arkaprabha Bhattacharya </b> </li>
             </ul>
         </td>
         <td> 11:15 - 11:45am </td>
