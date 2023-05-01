@@ -13,11 +13,11 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
     </tr>
     <tr>
         <td> Opening Remarks </td>
-        <td> 8:45 - 9:00am </td>
+        <td> 9:00 - 9:15am </td>
     </tr>
     <tr>
         <td> Academic Keynote – Daphne Keller, Stanford </td>
-        <td> 9:00 - 10:00am </td>
+        <td> 9:15 - 10:00am </td>
     </tr>
     <tr>
         <td> Morning Break </td>
@@ -55,17 +55,16 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
             </ul>
             Moderator: <b>Laura Edelson</b>, Postdoctoral Researcher, NYU
         </td>
-        <td> 1:00pm - 1:45pm </td>
+        <td> 1:00pm - 2:00pm </td>
     </tr>
     <tr>
         <td> Session 3 – Building Safer Systems 
             <ul>
-                <li> Understanding the Behaviors of Toxic Accounts on Reddit,  <b>Deepak Kumar</b> </li>
                 <li> Hate Raids on Twitch: Echoes of the Past, New Modalities, and Implications for Platform Governance, <b>Catherine Han</b> </li>
                 <li> Designing Safer Systems for Digital Intimacy, <b>Allison McDonald</b> </li>
             </ul>
         </td>
-        <td> 1:45pm - 2:30pm </td>
+        <td> 2:00pm - 2:30pm </td>
     </tr>
     <tr>
         <td> Afternoon Break </td>
@@ -73,11 +72,11 @@ To read the abstracts for each talk, see the [accepted talks page](/accepted_tal
     </tr>
     <tr>
         <td> Lightning Talks </td>
-        <td> 3:00 - 3:45pm </td>
+        <td> 3:00 - 3:30pm </td>
     </tr>
     <tr>
         <td> Breakout Sessions </td>
-        <td> 3:45 - 4:30pm </td>
+        <td> 3:30 - 4:30pm </td>
     </tr>
     <tr>
         <td> Summary & Closing Remarks</td>
